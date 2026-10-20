@@ -1,0 +1,15 @@
+Вариант 10 — Аналитик
+
+1. Установите и запустите Docker Desktop.
+2. В PowerShell откройте папку проекта и выполните:
+   Copy-Item .env.example .env
+   docker compose up -d rustfs
+3. Если используете актуальные данные HH API:
+   docker compose run --rm pipeline all --limit 1200 --chunk-sizes 100,500,1000 --attempts 3
+   Если API блокирует запросы, положите датасет из ДЗ № 2 в data/vacancies.jsonl и выполните:
+   docker compose run --rm pipeline import-file /app/data/vacancies.jsonl
+   docker compose run --rm pipeline run --chunk-sizes 100,500,1000 --attempts 3
+4. Результаты и фактический PDF появятся в artifacts/report.pdf. RustFS Console: http://localhost:9001.
+5. Добавьте реальные скриншоты RustFS в screenshots/ и повторно выполните команду run, чтобы вставить их в PDF.
+
+Важно: тестовые данные в tests/fixtures/ искусственные и предназначены только для юнит-тестов. Не используйте их для итогового отчёта.

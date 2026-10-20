@@ -1,0 +1,7 @@
+boto3>=1.34,<2
+requests>=2.31,<3
+duckdb>=1.2,<2
+psutil>=5.9,<8
+reportlab>=4.0,<5
+
+pytest>=8,<10

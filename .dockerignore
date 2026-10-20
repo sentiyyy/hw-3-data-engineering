@@ -1,0 +1,15 @@
+.git
+.env
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.DS_Store
+data/*.jsonl
+data/*.ndjson
+data/*.json
+data/*.csv
+artifacts/*
+!artifacts/.gitkeep
+screenshots/*
+!screenshots/README.md

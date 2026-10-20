@@ -1,0 +1,14 @@
+{"id":"t01","name":"Аналитик данных","area":"Москва","salary_from":150000,"salary_to":190000,"salary_currency":"RUR","skills":["Python","SQL","Excel"]}
+{"id":"t02","name":"Data Analyst","area":"Москва","salary_from":160000,"salary_to":200000,"salary_currency":"RUR","skills":["SQL","Python"]}
+{"id":"t03","name":"Системный аналитик","area":"Москва","salary_from":140000,"salary_to":180000,"salary_currency":"RUR","skills":["SQL","Python","Excel"]}
+{"id":"t04","name":"Аналитик","area":"Москва","salary_from":90000,"salary_to":120000,"salary_currency":"RUR","skills":["Python","Excel"]}
+{"id":"t05","name":"Аналитик данных","area":"Москва","salary_from":100000,"salary_to":130000,"salary_currency":"RUR","skills":["SQL","Excel"]}
+{"id":"t06","name":"Бизнес-аналитик","area":"Санкт-Петербург","salary_from":130000,"salary_to":170000,"salary_currency":"RUR","skills":["Excel","Power BI","SQL"]}
+{"id":"t07","name":"Data Analyst","area":"Санкт-Петербург","salary_from":140000,"salary_to":175000,"salary_currency":"RUR","skills":["Power BI","SQL"]}
+{"id":"t08","name":"Аналитик","area":"Санкт-Петербург","salary_from":115000,"salary_to":145000,"salary_currency":"RUR","skills":["Power BI","Excel","SQL"]}
+{"id":"t09","name":"BI Analyst","area":"Санкт-Петербург","salary_from":120000,"salary_to":155000,"salary_currency":"RUR","skills":["SQL","Power BI"]}
+{"id":"t10","name":"Аналитик данных","area":"Казань","salary_from":95000,"salary_to":125000,"salary_currency":"RUR","skills":["Excel","SQL","Power BI"]}
+{"id":"t11","name":"Аналитик","area":"Казань","salary_from":80000,"salary_to":105000,"salary_currency":"RUR","skills":["Excel","SQL"]}
+{"id":"t12","name":"Data Analyst","area":"Казань","salary_from":110000,"salary_to":140000,"salary_currency":"RUR","skills":["Python","SQL"]}
+{"id":"t13","name":"Software Engineer","area":"Москва","salary_from":180000,"salary_to":220000,"salary_currency":"RUR","skills":["Python","SQL"]}
+{"id":"t14","name":"Бизнес-аналитик","area":"Казань","salary_from":125000,"salary_to":160000,"salary_currency":"RUR","skills":["Excel","SQL","Python"]}

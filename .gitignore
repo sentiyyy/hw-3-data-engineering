@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+rustfs_data/
+data/raw/
+artifacts/run.log
+artifacts/tmp/
+data/*.jsonl
+data/*.ndjson
+data/*.json
+data/*.csv
